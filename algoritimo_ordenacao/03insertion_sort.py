@@ -23,3 +23,14 @@ insertion_sort(numeros)
 print("Lista ordenada")
 print(numeros)
 
+'''Insertion Sort - Algoritmo de ordenação por inserção
+
+Vantagens:
+.Simples de entender e implementar.
+.Eficiente para listas pequenas ou quase ordenadas.
+
+Desvantagens:
+
+.Complexidade O(n²) no pior caso, tornando-o lento para listas grandes.
+.Ineficientes para grandes conjuntos de dados em comparação com algoritimos mais avançados.'''
+
